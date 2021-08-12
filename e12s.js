@@ -1,0 +1,1 @@
+var application = new PIXI.application(600, 700, {backgroundColor: 0x1099bb})
